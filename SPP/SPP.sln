@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KNN SPP+ - double", "SPP.vcxproj", "{CAC00CA1-CCB0-4215-92C1-CE306D373D21}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KNN SPP+ - double (pinned)", "..\KNN SPP+ - double (pinned)\KNN SPP+ - double (pinned).vcxproj", "{BDFBDE1D-3F93-478F-8FCA-D9A70EB81BB1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KNN SPP+ Heap - double", "..\KNN SPP+ Heap - double\KNN SPP+ Heap - double.vcxproj", "{FBCF0F94-3D83-489B-BAA2-EA48A3D7C660}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KNN SPP+ Heap - double (pinned)", "..\KNN SPP+ Heap - double (pinned)\KNN SPP+ Heap - double (pinned).vcxproj", "{E609213D-2206-42CA-9640-F25A0C3B1721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC00CA1-CCB0-4215-92C1-CE306D373D21}.Debug|x64.ActiveCfg = Debug|x64
+		{CAC00CA1-CCB0-4215-92C1-CE306D373D21}.Debug|x64.Build.0 = Debug|x64
+		{CAC00CA1-CCB0-4215-92C1-CE306D373D21}.Release|x64.ActiveCfg = Release|x64
+		{CAC00CA1-CCB0-4215-92C1-CE306D373D21}.Release|x64.Build.0 = Release|x64
+		{BDFBDE1D-3F93-478F-8FCA-D9A70EB81BB1}.Debug|x64.ActiveCfg = Debug|x64
+		{BDFBDE1D-3F93-478F-8FCA-D9A70EB81BB1}.Debug|x64.Build.0 = Debug|x64
+		{BDFBDE1D-3F93-478F-8FCA-D9A70EB81BB1}.Release|x64.ActiveCfg = Release|x64
+		{BDFBDE1D-3F93-478F-8FCA-D9A70EB81BB1}.Release|x64.Build.0 = Release|x64
+		{FBCF0F94-3D83-489B-BAA2-EA48A3D7C660}.Debug|x64.ActiveCfg = Debug|x64
+		{FBCF0F94-3D83-489B-BAA2-EA48A3D7C660}.Debug|x64.Build.0 = Debug|x64
+		{FBCF0F94-3D83-489B-BAA2-EA48A3D7C660}.Release|x64.ActiveCfg = Release|x64
+		{FBCF0F94-3D83-489B-BAA2-EA48A3D7C660}.Release|x64.Build.0 = Release|x64
+		{E609213D-2206-42CA-9640-F25A0C3B1721}.Debug|x64.ActiveCfg = Debug|x64
+		{E609213D-2206-42CA-9640-F25A0C3B1721}.Debug|x64.Build.0 = Debug|x64
+		{E609213D-2206-42CA-9640-F25A0C3B1721}.Release|x64.ActiveCfg = Release|x64
+		{E609213D-2206-42CA-9640-F25A0C3B1721}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64E44004-22E4-46A5-BD00-731CBB8DDB91}
+	EndGlobalSection
+EndGlobal

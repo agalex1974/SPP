@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CudaCompile Include="..\KNN Disk Disk SPP+ Heap - double (pinned)\kernel.cu">
+      <Filter>KNN Disk Disk SPP+ Heap - double %28pinned%29</Filter>
+    </CudaCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="KNN Disk Disk SPP+ Heap - double %28pinned%29">
+      <UniqueIdentifier>{4fa19e09-877c-4cc9-8b25-4e36ce66f7ce}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
